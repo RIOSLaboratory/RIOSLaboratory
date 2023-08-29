@@ -23,7 +23,8 @@ In November 2019, the RISC-V International Open Source Laboratory (RIOS Lab) was
 
 The name for the lab RIOS is also inspired by the Spanish word for “rivers.” It symbolizes the flow of information from many sources, coming together to create a whole that is greater than the sum of its parts.
 
-![image](https://github.com/RIOSMPW/RIOSMPW/assets/109063674/0f1f4f15-4632-4efb-a806-70eff84dc1c4)
+![image](https://github.com/RIOSMPW/RIOSMPW/assets/109063674/c2ba2b2c-4383-4b5f-95af-4488802fdbdb)
+
 
 
 
