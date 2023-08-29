@@ -22,7 +22,8 @@ The name for the lab RIOS is also inspired by the Spanish word for “rivers.”
 
 ![](https://github-readme-activity-graph.cyclic.app/graph?username=你的RIOSMPW&theme=dracula)
 
-<div align="center"> <img src="https://metrics.lecoq.io/sun0225SUN?template=classic&config.timezone=Asia%2FShanghai"> </div>
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RIOSMPW&theme=dark&layout=compact)
+
 
 ![](https://github-readme-stats.vercel.app/api?username=RIOSMPW&show_icons=true&theme=transparent)
 
