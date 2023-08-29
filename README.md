@@ -23,7 +23,7 @@ The name for the lab RIOS is also inspired by the Spanish word for “rivers.”
 
 ![](https://github-readme-stats.vercel.app/api?username=RIOSMPW&show_icons=true&theme=transparent)
 
-## Visitors ![Visitor Count](https://profile-counter.glitch.me/RIOSMPW/count.svg) 
+## Total Visitors ![Visitor Count](https://profile-counter.glitch.me/RIOSMPW/count.svg) 
 
 
 
