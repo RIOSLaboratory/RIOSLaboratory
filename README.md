@@ -1,4 +1,3 @@
-
 <!--
 **RIOSMPW/RIOSMPW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,10 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-![image](https://github.com/RIOSMPW/RIOSMPW/assets/109063674/b1962029-4249-4f13-b9ed-b31c5c2f76c2)
-
+![image](https://github.com/RIOSMPW/RIOSMPW/assets/109063674/53247039-a116-476d-bc3c-a84b881fba0e)
 
 **RISC-V International Open Source Laboratory** (RIOS Lab) is a Shenzhen-based research facility focused on computer system architecture, supported by the Tsinghua-Berkeley Shenzhen Research Institute. As an Open Source and Nobel Prize Laboratory, Rios Lab promotes open-source innovation and collaboration. Our philosophy is that the computer architecture ecosystem should be free for all to access and build upon.
 
