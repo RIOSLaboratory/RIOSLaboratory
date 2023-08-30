@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 
 In November 2019, the RISC-V International Open Source Laboratory (RIOS Lab) was officially unveiled. Under the leadership of 2017 A.M. Turing Award winner Prof. David A. Patterson and operational support from TBSI,  RIOS Lab will conduct cutting-edge research in RISC-V hardware and software technology. 
 
-![image](https://github.com/RIOSMPW/RIOSMPW/assets/109063674/67147f14-1323-4adf-ad43-60fdabfab6b6)
+![image](https://github.com/RIOSMPW/RIOSMPW/assets/109063674/84db4898-7739-475e-a52b-3cd94aba0161)
+
 
 
 The name for the lab RIOS is also inspired by the Spanish word for “rivers.” It symbolizes the flow of information from many sources, coming together to create a whole that is greater than the sum of its parts.
