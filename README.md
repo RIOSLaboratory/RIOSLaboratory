@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![image](https://github.com/user-attachments/assets/31e29f44-b380-4086-8c8a-4804ca4b242c)
 
 
 ![image](https://github.com/user-attachments/assets/8a81a719-b2fc-4824-8bcc-35d99a0562eb)
