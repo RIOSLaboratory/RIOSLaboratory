@@ -15,10 +15,13 @@ Here are some ideas to get you started:
 
 ![image](https://github.com/user-attachments/assets/8a81a719-b2fc-4824-8bcc-35d99a0562eb)
 
-
+ 
 # RISC-V International Open Source Laborator
+ 
 
 In November 2019, the RISC-V International Open Source Laboratory (RIOS Lab) was officially unveiled. Under the leadership of 2017 A.M. Turing Award winner Prof. David A. Patterson and operational support from TBSI,  RIOS Lab will conduct cutting-edge research in RISC-V hardware and software technology. 
+
+ 
 ![image](https://github.com/user-attachments/assets/23bc41e8-9b36-4a3a-a9c5-0b7cd9db02c2)
 
 Patterson first proposed the Reduced Instruction Set Computer (RISC), an open and free instruction set architecture enabling a new era of processor innovation through open standard collaboration. Released in 2010, the latest Fifth Generation RISC has gained worldwide attention.
@@ -32,15 +35,13 @@ The name for the lab RIOS is also inspired by the Spanish word for “rivers.”
 ![image](https://github.com/RIOSMPW/RIOSMPW/assets/109063674/c2ba2b2c-4383-4b5f-95af-4488802fdbdb)
 
 
-
-
-
-
+ 
 # Associate Members
+ 
 
 ![image](https://github.com/user-attachments/assets/86a57f9d-f05a-4397-beae-601f0d8fd52a)
 
-
+ 
 ## Total Visitors ![Visitor Count](https://profile-counter.glitch.me/RIOSMPW/count.svg) 
 
 
