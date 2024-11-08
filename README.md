@@ -12,9 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# RISC-V International Open Source Laborator
 
-**RISC-V International Open Source Laboratory** (RIOS Lab) is a Shenzhen-based research facility focused on computer system architecture, supported by the Tsinghua-Berkeley Shenzhen Research Institute. As an Open Source and Nobel Prize Laboratory, Rios Lab promotes open-source innovation and collaboration. Our philosophy is that the computer architecture ecosystem should be free for all to access and build upon.
+![image](https://github.com/user-attachments/assets/8a81a719-b2fc-4824-8bcc-35d99a0562eb)
+
+
+# RISC-V International Open Source Laborator
 
 In November 2019, the RISC-V International Open Source Laboratory (RIOS Lab) was officially unveiled. Under the leadership of 2017 A.M. Turing Award winner Prof. David A. Patterson and operational support from TBSI,  RIOS Lab will conduct cutting-edge research in RISC-V hardware and software technology. 
 
