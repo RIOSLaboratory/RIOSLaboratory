@@ -39,7 +39,7 @@ The name for the lab RIOS is also inspired by the Spanish word for “rivers.”
 
 
  
-# Associate Members
+## Associate Members
  
 
 ![image](https://github.com/user-attachments/assets/86a57f9d-f05a-4397-beae-601f0d8fd52a)
